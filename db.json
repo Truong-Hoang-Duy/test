@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Spiced Mint",
+      "productDesc": "Top grade Soy wax that delivers a smoke less, consistent burn",
+      "productImg": "./img/products/product-1.png",
+      "productPrice": 9.99,
+      "productSold": 2000
+    }
+  ]
+}
